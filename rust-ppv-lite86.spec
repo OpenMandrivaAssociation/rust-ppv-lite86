@@ -4,8 +4,8 @@
 %global crate ppv-lite86
 
 Name:           rust-%{crate}
-Version:        0.2.10
-Release:        2
+Version:        0.2.21
+Release:        1
 Summary:        Implementation of the crypto-simd API for x86
 
 # Upstream license specification: MIT/Apache-2.0
